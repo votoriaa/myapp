@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:myapp/core/theme/colors.dart';
+import 'colors.dart';
+//      package:myapp/core/theme/   
 
 
 //Classe Estática para armazenar os estilos de texto do aplicativo
