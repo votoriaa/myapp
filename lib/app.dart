@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'presentation/pages/text/home_page3.dart';
+import 'presentation/pages/text/home_page5.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor:Colors.blue),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
       home: HomePage(),

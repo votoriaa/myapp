@@ -61,11 +61,12 @@ class TextStyles {
     color: AppColors.textPrimary,
   );
 
-  static TextStyle get googleFontes => googleFontes.(
+  static TextStyle get googleFonts => GoogleFonts.roboto(
     fontSize: 40,
     fontWeight: FontWeight.bold,
     color: AppColors.textPrimary,
 
-  ),
+  );
 
 }
+
